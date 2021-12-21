@@ -1,11 +1,10 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+![GK_quiz!!](https://w7.pngwing.com/pngs/387/301/png-transparent-test-of-english-as-a-foreign-language-toefl-general-knowledge-quiz-student-text-people-logo.png)
 
 
-# Quizzler Challenge Solution
+# Test your general knowledge!
 
 
 
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+>This is a complete project based upon testing of general knowledge skills.
+>It also tells you the score you achieved!!
